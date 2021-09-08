@@ -1,0 +1,21 @@
+.main{
+  display: flex;
+  width: 100%;
+  .student-form{
+    width: 30%;
+  }
+  .student-table{
+    width: 70%;
+    padding: 24px;
+  }
+  .action-icons{
+    span{
+      padding: 0px 5px;
+      cursor: pointer;
+    }
+  }
+}
+.d-flex{
+  display: flex;
+}
+
